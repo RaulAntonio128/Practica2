@@ -1,0 +1,3 @@
+# Practica2
+Se realiza la practica del curso 9 de ciencia de datos...  
+
